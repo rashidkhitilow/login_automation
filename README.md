@@ -4,7 +4,7 @@
 Automate the login process to avoid manual entry of usernames and passwords.
 
 ## Installation
-
+Install python
 Install the `pyautogui` library by running the following command:
 
 ```bash
